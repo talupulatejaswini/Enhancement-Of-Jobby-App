@@ -45,3 +45,5 @@ const SimilarJobCard = props => {
     </li>
   )
 }
+
+export default SimilarJobCard
